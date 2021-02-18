@@ -31,8 +31,12 @@ There are two applications.
 
 1. Angular
 
-![Image of Main View](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_0.JPG)
+![ss_0](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_0.png)
+![ss_1](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_1.png)
+![ss_2](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_2.png)
+![ss_3](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_3.png)
 
 2. JavaFX
 
-![Image of Main View](https://github.com/sashin2000/Premier-League-Manager/blob/master/JavaFX/ss/javafx1.JPG)
+![ss_0](https://github.com/sashin2000/Premier-League-Manager/blob/master/JavaFX/ss/javafx1.JPG)
+![ss_1](https://github.com/sashin2000/Premier-League-Manager/blob/master/JavaFX/ss/javafx2.JPG)
