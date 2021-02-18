@@ -35,4 +35,4 @@ There are two applications.
 
 2. JavaFX
 
-![Image of Main View](https://https://github.com/sashin2000/Premier-League-Manager/blob/master/JavaFX/src/ss/javafx1.JPG)
+![Image of Main View](https://github.com/sashin2000/Premier-League-Manager/blob/master/JavaFX/ss/javafx1.JPG)
