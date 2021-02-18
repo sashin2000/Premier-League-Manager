@@ -28,3 +28,11 @@ There are two applications.
        Display match history
  
 ```
+
+1. Angular
+
+![Image of Main View](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_0.JPG)
+
+2. JavaFX
+
+![Image of Main View](https://https://github.com/sashin2000/Premier-League-Manager/blob/master/JavaFX/src/ss/javafx1.JPG)
