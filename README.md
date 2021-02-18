@@ -31,7 +31,7 @@ There are two applications.
 
 1. Angular
 
-![ss_0](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_0.png)
+![ss_0](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_0.JPG)
 ![ss_1](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_1.png)
 ![ss_2](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_2.png)
 ![ss_3](https://github.com/sashin2000/Premier-League-Manager/blob/master/Angular/ss/Screenshot_3.png)
