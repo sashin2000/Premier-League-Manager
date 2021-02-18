@@ -1,0 +1,30 @@
+#search-btn{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-text-fill: aliceblue;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 30px;
+    -fx-background-color: #2d2d2d;
+    -fx-background-radius: 0px;
+    -fx-font-family: "Lucida Sans";
+    -fx-cursor: hand;
+}
+
+#search-btn:hover{
+    -fx-background-color: dimgrey;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color : #2d2d2d;
+    -fx-background-radius : 2.0em;
+}
+
+.scroll-bar:vertical .thumb:hover {
+    -fx-background-color: dimgrey;
+    -fx-background-radius : 2.0em;
+}
+
+.scroll-bar:vertical .decrement-arrow,
+.scroll-bar:vertical .increment-arrow{
+    -fx-shape : " ";
+}

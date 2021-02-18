@@ -1,0 +1,64 @@
+.lbl-team-name{
+
+    -fx-min-width: 300px;
+    -fx-text-fill: whitesmoke;
+    -fx-font-weight: bolder;
+    -fx-font-size: 25px;
+    -fx-font-family: "Lucida Sans";
+}
+
+.lbl-team-score1{
+
+    -fx-min-width: 300px;
+    -fx-label-padding: 0 0 0 100;
+    -fx-text-fill: whitesmoke;
+    -fx-font-weight: bolder;
+    -fx-font-size: 30px;
+    -fx-font-family: "Lucida Sans";
+}
+
+.lbl-team-score2{
+
+    -fx-min-width: 300px;
+    -fx-text-fill: whitesmoke;
+    -fx-font-weight: bolder;
+    -fx-font-size: 30px;
+    -fx-font-family: "Lucida Sans";
+}
+
+.lbl-colan{
+    -fx-text-fill: whitesmoke;
+    -fx-font-weight: bolder;
+    -fx-font-size: 40px;
+    -fx-font-family: "Lucida Sans";
+}
+
+.lbl-vs{
+    -fx-text-fill: whitesmoke;
+    -fx-font-weight: bolder;
+    -fx-font-size: 40px;
+    -fx-font-family: "Lucida Sans";
+}
+
+.label{
+    -fx-pref-width: 900px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+
+#generate-btn{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-text-fill: aliceblue;
+    -fx-pref-width: 900px;
+    -fx-pref-height: 100px;
+    -fx-background-color: #2d2d2d;
+    -fx-background-radius: 0px;
+    -fx-font-family: "Lucida Sans";
+    -fx-cursor: hand;
+}
+
+#generate-btn:hover{
+    -fx-background-color: dimgrey;
+}
+
