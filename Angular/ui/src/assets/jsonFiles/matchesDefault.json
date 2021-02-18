@@ -1,0 +1,25 @@
+[
+  {
+    "clubName": "SampleClubDefault1",
+    "matchesPlayed": "1",
+    "noOfWins": "2",
+    "noOfDraws": "3",
+    "noOfDefeats": "4",
+    "goalsScored": "5",
+    "goalsAgainst": "6",
+    "goalDifference": "7",
+    "currentPoints": "8"
+  },
+  {
+    "clubName": "SampleClubDefault2",
+    "matchesPlayed": "9",
+    "noOfWins": "10",
+    "noOfDraws": "11",
+    "noOfDefeats": "12",
+    "goalsScored": "13",
+    "goalsAgainst": "14",
+    "goalDifference": "15",
+    "currentPoints": "16"
+  }
+]
+

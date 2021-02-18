@@ -1,0 +1,23 @@
+#vs{
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+#search-bar{
+  margin: 25px;
+}
+
+mat-grid-tile {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+mat-list{
+  margin-top: 25px;
+}
+
+mat-divider{
+
+  margin-top: 25px;
+  margin-bottom: 25px;
+}

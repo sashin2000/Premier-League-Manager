@@ -1,0 +1,13 @@
+mat-card{
+  padding: 10px;
+}
+table {
+  width: 100%;
+}
+
+#sort-by{
+  margin-bottom: -20px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: flex-end;
+}

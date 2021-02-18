@@ -1,0 +1,20 @@
+<div class="page-header">Generate Match</div>
+<mat-card>
+
+  <mat-grid-list cols="5" rowHeight="2:1">
+    <mat-grid-tile colspan="2">Team - {{team1}}</mat-grid-tile>
+    <mat-grid-tile rowspan="2"><img src="assets/vs-image.png"></mat-grid-tile>
+    <mat-grid-tile colspan="2">Team - {{team2}}</mat-grid-tile>
+    <mat-grid-tile colspan="2">Goals - {{score1}}</mat-grid-tile>
+    <mat-grid-tile colspan="2">Goals - {{score2}}</mat-grid-tile>
+    <mat-grid-tile colspan="5">Date- {{date}}</mat-grid-tile>
+  </mat-grid-list>
+
+  <mat-divider></mat-divider>
+
+  <div id="btn-generate-wrapper">
+    <button (click)="displayResult()" id="btn-generate" mat-raised-button color="primary">Generate</button>
+  </div>
+
+</mat-card>
+

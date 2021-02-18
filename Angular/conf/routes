@@ -1,0 +1,11 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+GET     /api/MatchStats/:clubType/:sortingCriteria          controllers.HomeController.getMatchStats(clubType: String,sortingCriteria: String)
+GET     /api/GenerateMatch                                  controllers.GenerateMatchController.getRandomMatchResults
+GET     /api/PlayedMatches/:searchDate                      controllers.PlayedMatchesController.getPlayedMatches(searchDate: String)
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /api/assets/*file                                   controllers.Assets.versioned(path="/public", file: Asset)
